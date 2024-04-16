@@ -613,6 +613,10 @@ video {
   display: grid;
 }
 
+.h-screen {
+  height: 100vh;
+}
+
 .w-56 {
   width: 14rem;
 }
